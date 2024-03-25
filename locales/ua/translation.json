@@ -1,0 +1,51 @@
+{
+  "Close": "Закрити",
+
+  "Log In": "Увійти",
+  "Sign Up": "Зареєструватися",
+
+  "Success login": "Успішний вхід",
+  "Success signup": "Успішна реєстрація",
+  "Websocket connected": "Websocket підключено",
+
+  "User Email or Password not found": "Користувача з такою електронною поштою або паролем не знайдено",
+  "user_email already exist": "Користувач з такою електронною поштою вже існує",
+  "Current user not found": "Поточного користувача не знайдено",
+  "Trade token not found": "Торговий токен не знайдено",
+  "Changed leverage for": "Змінено кредитне плече для",
+  "Added stop position for": "Додано позицію stop для",
+  "Trade opened": "Trade відкритий",
+  "Trade closed": "Trade закритий",
+  "Position Stop Loss cancelled": "Позицію Stop Loss скасовано",
+  "No need to change margin type": "Не потрібно змінювати тип маржі",
+  "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures": "Недійсний API-ключ, IP-адреса або дозволи. Перевірте свій ключ API Binance: Додайте IP-адресу до Білого Списку та Дозвольте Фьючерси",
+  "No need to change position side": "Не потрібно змінювати сторону позиції",
+  "Order notional must be no smaller than 5": "Обсяг ордера повинен бути не менше 5",
+  "Price not increased by tick size": "Ціна не збільшилася на розмір кроку",
+  "Quantity less than or equal to zero": "Кількість менша або рівна нулю",
+  "Position side cannot be changed if there exists open orders": "Сторону позиції не можна змінити, якщо існують відкриті ордери",
+  "Margin is insufficient": "Маржа недостатня",
+  "Unknown order sent": "Невідомий ордер відправлений",
+
+  "Success": "Успіх",
+  "Information": "Інформація",
+  "Warning": "Попередження",
+  "Error": "Помилка",
+
+  "Light": "Світлий режим",
+  "Dark": "Темний режим",
+
+  "Switch lang": "Перемкнути на EN",
+
+  "Current Price of Bitcoin. Click for open additional information": "Поточна ціна Bitcoin. Натисніть, щоб відкрити додаткову інформацію",
+  "HA - Trend of the last 15-minute Heikin-Ashi bar of Bitcoin": "HA – Тренд Bitcoin за останній 15-хвилинний бар Heikin-Ashi",
+  "FST - Trend of the Fast moving average relative to Bitcoin price": "FST – Tренд швидкої ковзної середньої відносно ціни Bitcoin",
+  "MED - Trend of the Medium moving average relative to the Fast moving average": "MED - Тренд середньої ковзної середньої відносно швидкої ковзної середньої",
+  "SLO - Trend of the Slow moving average relative to the Medium moving average": "SLO - Тренд повільної ковзної середньої відносно середньої ковзної середньої",
+
+  "Telegram": "Telegram",
+  "Community": "Спільнота",
+  "Current version": "Поточна версія",
+  "The official Telegram channel where you can stay updated on all the news about the MAIA project": "Офіційний канал в Telegram, де Ви можете слідкувати за всіма новинами проекту MAIA",
+  "The official Telegram community where you can ask the developer any questions you have": "Офіційна спільнота в Telegram, де Ви можете задати розробнику будь-які питання, які вас цікавлять"
+}

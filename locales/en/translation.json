@@ -1,0 +1,51 @@
+{
+  "Close": "Close",
+
+  "Log In": "Log In",
+  "Sign Up": "Sign Up",
+
+  "Success login": "Success login",
+  "Success signup": "Success signup",
+  "Websocket connected": "Websocket connected",
+
+  "User Email or Password not found": "User Email or Password not found",
+  "user_email already exist": "User Email already exist",
+  "Current user not found": "Current user not found",
+  "Trade token not found": "Trade token not found",
+  "Changed leverage for": "Changed leverage for",
+  "Added stop position for": "Added stop position for",
+  "Trade opened": "Trade opened",
+  "Trade closed": "Trade closed",
+  "Position Stop Loss cancelled": "Position Stop Loss cancelled",
+  "No need to change margin type": "No need to change margin type",
+  "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures": "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures",
+  "No need to change position side": "No need to change position side",
+  "Order notional must be no smaller than 5": "Order notional must be no smaller than 5",
+  "Price not increased by tick size": "Price not increased by tick size",
+  "Quantity less than or equal to zero": "Quantity less than or equal to zero",
+  "Position side cannot be changed if there exists open orders": "Position side cannot be changed if there exists open orders",
+  "Margin is insufficient": "Margin is insufficient",
+  "Unknown order sent": "Unknown order sent",
+
+  "Success": "Success",
+  "Information": "Information",
+  "Warning": "Warning",
+  "Error": "Error",
+
+  "Light": "Light mode",
+  "Dark": "Dark mode",
+
+  "Switch lang": "Switch to UA",
+
+  "Current Price of Bitcoin. Click for open additional information": "Current Price of Bitcoin. Click for open additional information",
+  "HA - Trend of the Last 15-minute Heikin-Ashi bar of Bitcoin": "HA - Trend of the Last 15-minute Heikin-Ashi bar of Bitcoin",
+  "FST - Trend of the Fast moving average relative to Bitcoin price": "FST - Trend of the Fast moving average relative to Bitcoin price",
+  "MED - Trend of the Medium moving average relative to the Fast moving average": "MED - Trend of the Medium moving average relative to the Fast moving average",
+  "SLO - Trend of the Slow moving average relative to the Medium moving average": "SLO - Trend of the Slow moving average relative to the Medium moving average",
+
+  "Telegram": "Telegram",
+  "Community": "Community",
+  "Current version": "Current version",
+  "The official Telegram channel where you can stay updated on all the news about the MAIA project": "The official Telegram channel where you can stay updated on all the news about the MAIA project",
+  "The official Telegram community where you can ask the developer any questions you have": "The official Telegram community where you can ask the developer any questions you have"
+}
