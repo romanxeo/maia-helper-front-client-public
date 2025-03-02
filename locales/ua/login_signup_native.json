@@ -1,0 +1,19 @@
+{
+  "Incorrect email": "Невірна електронна пошта",
+  "Field is required": "Поле є обов'язковим",
+  "Minimum 6 characters": "Мінімум 6 символів",
+  "Minimum 4 characters": "Мінімум 4 символів",
+  "Passwords must match": "Паролі повинні співпадати",
+  "Should contain one uppercase letter, one lowercase letter, one digit, and one special character": "Повинен містити одну велику літеру, одну маленьку літеру, одну цифру та один спеціальний символ",
+  "Login": "Логін",
+  "Signup": "Реєстрація",
+  "Log In": "Увійти",
+  "Sign Up": "Зареєструватися",
+  "Email": "Електронна пошта",
+  "Nickname": "Ім'я користувача",
+  "Password": "Пароль",
+  "Password repeat": "Повторити пароль",
+
+  "User Email or Password not found": "Користувача з такою електронною поштою або паролем не знайдено",
+  "user_email already exist": "Користувач з такою електронною поштою вже існує"
+}
