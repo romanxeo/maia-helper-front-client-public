@@ -1,0 +1,6 @@
+{
+  "DISABLE_CREATE_TRADE": "Cannot open the trade. Enter the PIN code on the preferences page",
+  "CREATE_TRADE_PROCESSING": "Opening the Trade. Please wait",
+  "CREATE_TRADE_BUY": "Open Buy Trade",
+  "CREATE_TRADE_SELL": "Open Sell Trade"
+}
