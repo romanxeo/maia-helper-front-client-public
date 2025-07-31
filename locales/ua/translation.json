@@ -1,0 +1,70 @@
+{
+  "Close": "Закрити",
+
+  "Log In": "Увійти",
+  "Sign Up": "Зареєструватися",
+
+  "Success login": "Успішний вхід",
+  "Success signup": "Успішна реєстрація",
+  "Websocket connected": "Websocket підключено",
+  "Websocket closed": "З'єднання WebSocket закрито",
+  "Websocket error": "Помилка WebSocket",
+  "Websocket onmessage error": "Помилка при отриманні повідомлення WebSocket",
+  "Websocket receive event error": "Помилка події отримання WebSocket",
+
+  "User Email or Password not found": "Користувача з такою електронною поштою або паролем не знайдено",
+  "user_email already exist": "Користувач з такою електронною поштою вже існує",
+  "Current user not found": "Поточного користувача не знайдено",
+  "Trade token not found": "Торговий токен не знайдено",
+  "Changed leverage for": "Змінено кредитне плече для",
+  "Added stop position for": "Додано позицію stop для",
+  "Trade opened": "Trade відкритий",
+  "Trade closed": "Trade закритий",
+  "Position Stop Loss cancelled": "Позицію Stop Loss скасовано",
+  "No need to change margin type": "Не потрібно змінювати тип маржі",
+  "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures": "Недійсний API-ключ, IP-адреса або дозволи. Перевірте свій ключ API Binance: Додайте IP-адресу до Білого Списку та Дозвольте Фьючерси",
+  "No need to change position side": "Не потрібно змінювати сторону позиції",
+  "Order notional must be no smaller than 5": "Обсяг ордера повинен бути не менше 5",
+  "Price not increased by tick size": "Ціна не збільшилася на розмір кроку",
+  "Quantity less than or equal to zero": "Кількість менша або рівна нулю",
+  "Position side cannot be changed if there exists open orders": "Сторону позиції не можна змінити, якщо існують відкриті ордери",
+  "Margin is insufficient": "Маржа недостатня",
+  "Unknown order sent": "Невідомий ордер відправлений",
+
+  "Success": "Успіх",
+  "Information": "Інформація",
+  "Warning": "Попередження",
+  "Error": "Помилка",
+
+  "Light": "Світлий режим",
+  "Dark": "Темний режим",
+
+  "Switch lang": "Перемкнути на EN",
+
+  "Current Price of Bitcoin. Click for open additional information": "Поточна ціна Bitcoin. Натисніть, щоб відкрити додаткову інформацію",
+
+  "Telegram": "Telegram",
+  "Community": "Спільнота",
+  "Current version": "Поточна версія",
+  "The official Telegram channel where you can stay updated on all the news about the MAIA project": "Офіційний канал в Telegram, де Ви можете слідкувати за всіма новинами проекту MAIA",
+  "The official Telegram community where you can ask the developer any questions you have": "Офіційна спільнота в Telegram, де Ви можете задати розробнику будь-які питання, які вас цікавлять",
+
+  "Notification": "Сповіщення",
+  "Close Notification history": "Закрити історію сповіщень",
+  "Open Notification history": "Відкрити історію сповіщень",
+
+  "Unknown error": "Невідома помилка",
+  "Signup error": "Помилка реєстрації",
+  "Notification load error": "Помилка при завантаженні сповіщень",
+  "Obtaining user error": "Помилка отримання користувача",
+  "Login error": "Помилка входу",
+
+  "Page": "Сторінка",
+  "Size": "Розмір",
+
+  "Realized PNL for this page": "Реалізований PNL для цієї сторінки",
+  "Realized PNL Describe": "Показник фактичного прибутку або збитку, який вже було реалізовано (зафіксовано) на цій сторінці",
+  "Current PNL": "Поточний PNL",
+  "Current PNL Describe": "Показник поточного (плаваючого) прибутку або збитку для цієї сторінки, який ще не було зафіксовано і може змінюватися",
+  "Possible Loss Describe": "Прогнозований максимальний можливий збиток для цієї сторінки на основі поточних позицій і налаштувань трейлінг-стопів. Відображає найгірший сценарій у разі спрацювання всіх стопів."
+}

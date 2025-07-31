@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaia_helper_front_client=self.webpackChunkmaia_helper_front_client||[]).push([[426],{1426:(e,a,t)=>{t.r(a),t.d(a,{default:()=>u});var n=t(4848),r=t(2389);const u=(0,t(6540).memo)(function(){var e=(0,r.Bd)("about_page").t;return(0,n.jsx)("div",{children:e("about page")})})}}]);

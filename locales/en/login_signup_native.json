@@ -1,0 +1,19 @@
+{
+  "Incorrect email": "Incorrect email",
+  "Field is required": "Field is required",
+  "Minimum 6 characters": "Minimum 6 characters",
+  "Minimum 4 characters": "Minimum 4 characters",
+  "Passwords must match": "Passwords must match",
+  "Should contain one uppercase letter, one lowercase letter, one digit, and one special character": "Should contain one uppercase letter, one lowercase letter, one digit, and one special character",
+  "Login": "Login",
+  "Signup": "Signup",
+  "Log In": "Log In",
+  "Sign Up": "Sign Up",
+  "Email": "Email",
+  "Nickname": "Nickname",
+  "Password": "Password",
+  "Password repeat": "Password repeat",
+
+  "User Email or Password not found": "User Email or Password not found",
+  "user_email already exist": "User Email already exist"
+}

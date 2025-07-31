@@ -1,0 +1,9 @@
+{
+  "Repair error trades:": "Repair error trades:",
+  "Repair error trades": "Repair error trades",
+  "If you can not open new trades in any platforms,": "If you can not open new trades in any platforms,",
+  "you can try to Repair your trades by clicking in the button above": "you can try to Repair your trades by clicking in the button above",
+  "Repair": "Repair",
+  "Are you sure that you want to repair trade errors?": "Are you sure that you want to repair trade errors?",
+  "Was successfully repair trades": "Was successfully repair {{ count }} trades"
+}

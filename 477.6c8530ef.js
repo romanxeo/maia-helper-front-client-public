@@ -1,0 +1,1 @@
+(self.webpackChunkmaia_helper_front_client=self.webpackChunkmaia_helper_front_client||[]).push([[477],{477:()=>{}}]);
