@@ -1,0 +1,70 @@
+{
+  "Close": "Close",
+
+  "Log In": "Log In",
+  "Sign Up": "Sign Up",
+
+  "Success login": "Success login",
+  "Success signup": "Success signup",
+  "Websocket connected": "Websocket connected",
+  "Websocket closed": "Websocket closed",
+  "Websocket error": "Websocket error",
+  "Websocket onmessage error": "Websocket onmessage error",
+  "Websocket receive event error": "Websocket receive event error",
+
+  "User Email or Password not found": "User Email or Password not found",
+  "user_email already exist": "User Email already exist",
+  "Current user not found": "Current user not found",
+  "Trade token not found": "Trade token not found",
+  "Changed leverage for": "Changed leverage for",
+  "Added stop position for": "Added stop position for",
+  "Trade opened": "Trade opened",
+  "Trade closed": "Trade closed",
+  "Position Stop Loss cancelled": "Position Stop Loss cancelled",
+  "No need to change margin type": "No need to change margin type",
+  "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures": "Invalid API-key, IP, or Permissions. Check your Binance API key: Add IP to White List and Allow Futures",
+  "No need to change position side": "No need to change position side",
+  "Order notional must be no smaller than 5": "Order notional must be no smaller than 5",
+  "Price not increased by tick size": "Price not increased by tick size",
+  "Quantity less than or equal to zero": "Quantity less than or equal to zero",
+  "Position side cannot be changed if there exists open orders": "Position side cannot be changed if there exists open orders",
+  "Margin is insufficient": "Margin is insufficient",
+  "Unknown order sent": "Unknown order sent",
+
+  "Success": "Success",
+  "Information": "Information",
+  "Warning": "Warning",
+  "Error": "Error",
+
+  "Light": "Light mode",
+  "Dark": "Dark mode",
+
+  "Switch lang": "Switch to UA",
+
+  "Current Price of Bitcoin. Click for open additional information": "Current Price of Bitcoin. Click for open additional information",
+
+  "Telegram": "Telegram",
+  "Community": "Community",
+  "Current version": "Current version",
+  "The official Telegram channel where you can stay updated on all the news about the MAIA project": "The official Telegram channel where you can stay updated on all the news about the MAIA project",
+  "The official Telegram community where you can ask the developer any questions you have": "The official Telegram community where you can ask the developer any questions you have",
+
+  "Notification": "Notification",
+  "Close Notification history": "Close Notification history",
+  "Open Notification history": "Open Notification history",
+
+  "Unknown error": "Unknown error",
+  "Signup error": "Signup error",
+  "Notification load error": "Notification load error",
+  "Obtaining user error": "Obtaining user error",
+  "Login error": "Login error",
+
+  "Page": "Page",
+  "Size": "Size",
+
+  "Realized PNL for this page": "Realized PNL for this page",
+  "Realized PNL Describe": "The metric of profit or loss that has already been realized (settled) on this page",
+  "Current PNL": "Current PNL",
+  "Current PNL Describe": "The metric of current (floating) profit or loss for this page, which has not yet been settled and may fluctuate",
+  "Possible Loss Describe": "The projected maximum potential loss for this page based on current positions and trailing stop settings. It reflects the worst-case scenario if all stops are hit."
+}
