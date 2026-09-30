@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Тут НЕ всі 9 маршрутів із routerConfig.tsx, і це свідомо: 6 закриті
+  гардом authOnly, а /404 — сторінка помилки. Анонімний робот отримав би
+  на них редирект, а не контент. Публічно доступні рівно два документи.
+
+  Додавати сюди новий URL треба тоді, коли в routeConfig зʼявляється
+  маршрут БЕЗ authOnly.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://maia.trading/</loc>
+  </url>
+  <url>
+    <loc>https://maia.trading/about</loc>
+  </url>
+</urlset>

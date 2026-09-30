@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaia_helper_front_client=self.webpackChunkmaia_helper_front_client||[]).push([[644],{2263(e,t,n){n.r(t);var r=n(4848),s=n(6540),a=n(852),l=n(8906);const c=(0,s.memo)(()=>{const{t:e}=(0,a.B)();return(0,r.jsx)("div",{children:(0,r.jsx)(l.E,{as:"h1",title:e("404")})})});n.d(t,["default",0,c])}}]);

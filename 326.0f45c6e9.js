@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaia_helper_front_client=self.webpackChunkmaia_helper_front_client||[]).push([[326],{7326(e,a,t){t.r(a);var r=t(4848),s=t(852),n=t(6540),l=t(8906);const c=(0,n.memo)(()=>{const{t:e}=(0,s.B)("about_page");return(0,r.jsx)("div",{children:(0,r.jsx)(l.E,{as:"h1",title:e("dashboard page")})})});t.d(a,["default",0,c])}}]);

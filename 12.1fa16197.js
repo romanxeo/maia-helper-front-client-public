@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaia_helper_front_client=self.webpackChunkmaia_helper_front_client||[]).push([[12],{7012(e,t,a){a.r(t);var n=a(4848),r=a(852),s=a(6540),l=a(8906);const c=(0,s.memo)(()=>{const{t:e}=(0,r.B)("about_page");return(0,n.jsx)("div",{children:(0,n.jsx)(l.E,{as:"h1",title:e("about page")})})});a.d(t,["default",0,c])}}]);
