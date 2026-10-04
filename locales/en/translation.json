@@ -52,6 +52,8 @@
   "Realized PNL Describe": "The metric of profit or loss that has already been realized (settled) on this page",
   "Current PNL": "Current PNL",
   "Current PNL Describe": "The metric of current (floating) profit or loss for this page, which has not yet been settled and may fluctuate",
+  "Possible Loss": "Possible Loss",
+  "Loss": "Loss",
   "Possible Loss Describe": "The projected maximum potential loss for this page based on current positions and trailing stop settings. It reflects the worst-case scenario if all stops are hit.",
   "Toggle menu": "Toggle menu",
   "Close notification": "Close notification",
