@@ -178,5 +178,11 @@
   "none": "none",
   "No trades will open: the current neuron has no scale — switch to Legacy or wait for a new neuron.": "No trades will open: the current neuron has no scale — switch to Legacy or wait for a new neuron.",
   "Move": "Move",
-  "Dir": "Dir"
+  "Dir": "Dir",
+  "Floor": "Floor",
+  "step accuracy": "step accuracy",
+  "passes": "passes",
+  "of longs": "of longs",
+  "of shorts": "of shorts",
+  "of windows": "of windows"
 }
