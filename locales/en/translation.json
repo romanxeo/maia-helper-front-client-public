@@ -162,7 +162,6 @@
   "Accuracy mode": "Accuracy mode",
   "Relative": "Relative",
   "Legacy": "Legacy",
-  "Minimum move, % of max": "Minimum move, % of max",
   "Minimum long direction, % of long max": "Minimum long direction, % of long max",
   "Minimum short direction, % of short max": "Minimum short direction, % of short max",
   "REL": "REL",
@@ -192,5 +191,11 @@
   "of shorts": "of shorts",
   "of windows": "of windows",
   "No scale steps": "No scale steps",
-  "trade_status_repaired": "RP"
+  "trade_status_repaired": "RP",
+  "Minimum long move, % of long max": "Minimum long move, % of long max",
+  "Minimum short move, % of short max": "Minimum short move, % of short max",
+  "direction": "direction",
+  "Max trade lifetime, minutes": "Max trade lifetime, minutes",
+  "trade_status_max_lifetime": "LT",
+  "No trades will open: the current neuron has no move scale (calibrated before v5) — recalibrate it or switch to Legacy.": "No trades will open: the current neuron has no move scale (calibrated before v5) — recalibrate it or switch to Legacy."
 }

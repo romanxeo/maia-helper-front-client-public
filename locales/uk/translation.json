@@ -162,7 +162,6 @@
   "Accuracy mode": "Режим точності",
   "Relative": "Відносний",
   "Legacy": "Класичний",
-  "Minimum move, % of max": "Мінімальний рух, % від максимуму",
   "Minimum long direction, % of long max": "Мінімальний напрямок лонгів, % від максимуму лонгів",
   "Minimum short direction, % of short max": "Мінімальний напрямок шортів, % від максимуму шортів",
   "REL": "ВІДН",
@@ -192,5 +191,11 @@
   "of shorts": "шортів",
   "of windows": "вікон",
   "No scale steps": "Немає сходинок шкали",
-  "trade_status_repaired": "RP"
+  "trade_status_repaired": "RP",
+  "Minimum long move, % of long max": "Мінімальний рух лонгів, % від максимуму лонгів",
+  "Minimum short move, % of short max": "Мінімальний рух шортів, % від максимуму шортів",
+  "direction": "напрямок",
+  "Max trade lifetime, minutes": "Максимальна тривалість угоди, хвилини",
+  "trade_status_max_lifetime": "LT",
+  "No trades will open: the current neuron has no move scale (calibrated before v5) — recalibrate it or switch to Legacy.": "Угоди не відкриватимуться: у поточного нейрона немає шкали руху (відкалібровано до v5) — перекалібруйте його або перейдіть у класичний режим."
 }
