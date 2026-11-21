@@ -13,7 +13,11 @@
   "Nickname": "Ім'я користувача",
   "Password": "Пароль",
   "Password repeat": "Повторити пароль",
-
   "User Email or Password not found": "Користувача з такою електронною поштою або паролем не знайдено",
-  "user_email already exist": "Користувач з такою електронною поштою вже існує"
+  "user_email already exist": "Користувач з такою електронною поштою вже існує",
+  "Confirm sign-in": "Підтвердження входу",
+  "Send a new code": "Надіслати новий код",
+  "Confirm": "Підтвердити",
+  "Code from the email": "Код із листа",
+  "New device: we sent a 6-digit code to your email": "Новий пристрій: ми надіслали 6-значний код на вашу пошту. Він дійсний {{minutes}} хв."
 }

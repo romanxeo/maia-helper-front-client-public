@@ -13,7 +13,11 @@
   "Nickname": "Nickname",
   "Password": "Password",
   "Password repeat": "Password repeat",
-
   "User Email or Password not found": "User Email or Password not found",
-  "user_email already exist": "User Email already exist"
+  "user_email already exist": "User Email already exist",
+  "Confirm sign-in": "Confirm sign-in",
+  "Send a new code": "Send a new code",
+  "Confirm": "Confirm",
+  "Code from the email": "Code from the email",
+  "New device: we sent a 6-digit code to your email": "New device: we sent a 6-digit code to your email. It is valid for {{minutes}} minutes."
 }
