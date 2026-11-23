@@ -48,8 +48,6 @@
   "Login error": "Login error",
   "Page": "Page",
   "Size": "Size",
-  "Realized PNL for this page": "Realized PNL for this page",
-  "Realized PNL Describe": "The metric of profit or loss that has already been realized (settled) on this page",
   "Current PNL": "Current PNL",
   "Current PNL Describe": "The metric of current (floating) profit or loss for this page, which has not yet been settled and may fluctuate",
   "Possible Loss": "Possible Loss",
@@ -148,8 +146,6 @@
   "PNL $": "PNL $",
   "ROE %": "ROE %",
   "SL %": "SL %",
-  "Start": "Start",
-  "Finish": "Finish",
   "Status": "Status",
   "Actions": "Actions",
   "Total Margin Balance: ": "Total Margin Balance: ",
@@ -238,5 +234,12 @@
   "Analysis description: noise": "The dashed lines are the noise band: two unrelated series stay inside it 95% of the time. Because the best of 49 shifts is picked, its p-value is multiplied by 49 (Bonferroni correction), and only a result with adjusted p < 0.05 is reported as a link.",
   "Analysis description: limits": "Only the trader (master) account is counted. A short period such as one day gives a wide noise band, so pick a week or more for a firm answer. A link is not profit: the page shows whether the trader reacts to BTC, not whether that earns money.",
   "Analysis description: levels": "Why not the BTC price against the number of open positions: two trending series correlate by accident, with any sign, so such a chart changes its answer from period to period. Changes and newly opened trades do not have that problem.",
-  "Price intervals": "Price intervals"
+  "Price intervals": "Price intervals",
+  "Closed trades describe": "Trades CLOSED on the selected day (your time zone): realized PnL, mean ROE per trade, number of trades and the share of profitable ones. The public main page counts the same way, by UTC days.",
+  "Avg ROE": "Avg ROE",
+  "Trades": "Trades",
+  "Win rate": "Win rate",
+  "Day": "Day",
+  "Start": "Start",
+  "Finish": "Finish"
 }
