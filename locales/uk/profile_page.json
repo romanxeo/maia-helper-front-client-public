@@ -16,7 +16,6 @@
   "Last name (optional)": "Прізвище (не обов'язково)",
   "Field is required": "Поле є обов'язковим",
   "Too long": "Задовго",
-  "Email is your login and gets the sign-in codes. It cannot be changed here.": "Email — це логін і адреса для кодів входу. Тут він не змінюється.",
   "Password": "Пароль",
   "After the change other devices are signed out.": "Після зміни інші пристрої вийдуть з акаунта.",
   "Change password": "Змінити пароль",
