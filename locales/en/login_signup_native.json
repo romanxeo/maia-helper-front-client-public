@@ -19,5 +19,21 @@
   "Send a new code": "Send a new code",
   "Confirm": "Confirm",
   "Code from the email": "Code from the email",
-  "New device: we sent a 6-digit code to your email": "New device: we sent a 6-digit code to your email. It is valid for {{minutes}} minutes."
+  "New device: we sent a 6-digit code to your email": "New device: we sent a 6-digit code to your email. It is valid for {{minutes}} minutes.",
+  "Forgot password?": "Forgot password?",
+  "Password recovery": "Password recovery",
+  "Enter the account email. We will send a 6-digit code.": "Enter the account email. We will send a 6-digit code.",
+  "Send code": "Send code",
+  "Back to sign in": "Back to sign in",
+  "New password": "New password",
+  "Repeat new password": "Repeat new password",
+  "If this account exists, the code is already in the email": "If this account exists, the code is already in your email. It is valid for {{minutes}} min.",
+  "Save password": "Save password",
+  "After the change every device is signed out.": "After the change every device is signed out.",
+  "Password changed": "Password changed",
+  "All devices have been signed out. Sign in with the new password.": "All devices have been signed out. Sign in with the new password.",
+  "Wrong code": "Wrong code",
+  "The code has expired — request a new one": "The code has expired — request a new one",
+  "Too many wrong codes — request a new one": "Too many wrong codes — request a new one",
+  "Too many password reset requests. Please try again later.": "Too many password reset requests. Please try again later."
 }

@@ -19,5 +19,21 @@
   "Send a new code": "Надіслати новий код",
   "Confirm": "Підтвердити",
   "Code from the email": "Код із листа",
-  "New device: we sent a 6-digit code to your email": "Новий пристрій: ми надіслали 6-значний код на вашу пошту. Він дійсний {{minutes}} хв."
+  "New device: we sent a 6-digit code to your email": "Новий пристрій: ми надіслали 6-значний код на вашу пошту. Він дійсний {{minutes}} хв.",
+  "Forgot password?": "Забули пароль?",
+  "Password recovery": "Відновлення пароля",
+  "Enter the account email. We will send a 6-digit code.": "Вкажіть email акаунта. Ми надішлемо 6-значний код.",
+  "Send code": "Надіслати код",
+  "Back to sign in": "Назад до входу",
+  "New password": "Новий пароль",
+  "Repeat new password": "Повторіть новий пароль",
+  "If this account exists, the code is already in the email": "Якщо такий акаунт існує, код уже на пошті. Він дійсний {{minutes}} хв.",
+  "Save password": "Зберегти пароль",
+  "After the change every device is signed out.": "Після зміни всі пристрої вийдуть з акаунта.",
+  "Password changed": "Пароль змінено",
+  "All devices have been signed out. Sign in with the new password.": "Усі пристрої вийшли з акаунта. Увійдіть з новим паролем.",
+  "Wrong code": "Невірний код",
+  "The code has expired — request a new one": "Код застарів — запросіть новий",
+  "Too many wrong codes — request a new one": "Забагато невірних кодів — запросіть новий",
+  "Too many password reset requests. Please try again later.": "Забагато запитів на відновлення. Спробуйте пізніше."
 }
