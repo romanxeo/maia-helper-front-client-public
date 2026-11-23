@@ -45,5 +45,7 @@
   "Nickname must be 3–32 characters": "Нікнейм — від 3 до 32 символів",
   "Too many wrong passwords — try again in a few minutes": "Забагато невірних паролів — спробуйте за кілька хвилин",
   "This is the current session — use logout to end it": "Це поточна сесія — щоб її завершити, вийдіть з акаунта",
-  "Session not found": "Сесію не знайдено"
+  "Session not found": "Сесію не знайдено",
+  "Trader service": "Сервіс трейдера",
+  "Opens and closes trades, cannot be ended": "Відкриває й закриває угоди, завершити не можна"
 }

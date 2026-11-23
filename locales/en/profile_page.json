@@ -45,5 +45,7 @@
   "Nickname must be 3–32 characters": "Nickname must be 3–32 characters",
   "Too many wrong passwords — try again in a few minutes": "Too many wrong passwords — try again in a few minutes",
   "This is the current session — use logout to end it": "This is the current session — use logout to end it",
-  "Session not found": "Session not found"
+  "Session not found": "Session not found",
+  "Trader service": "Trader service",
+  "Opens and closes trades, cannot be ended": "Opens and closes trades, cannot be ended"
 }
