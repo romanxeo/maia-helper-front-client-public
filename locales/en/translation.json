@@ -197,7 +197,6 @@
   "No trades will open: the current neuron has no move scale (calibrated before v5) — recalibrate it or switch to Legacy.": "No trades will open: the current neuron has no move scale (calibrated before v5) — recalibrate it or switch to Legacy.",
   "Open longs": "Open longs",
   "Open shorts": "Open shorts",
-  "Close on a reverse signal": "Close on a reverse signal",
   "Close longs on a short signal": "Close longs on a short signal",
   "Close shorts on a long signal": "Close shorts on a long signal",
   "Closing short signal: minimum move, % of short max": "Closing short signal: minimum move, % of short max",
